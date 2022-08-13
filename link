@@ -1,0 +1,23 @@
+echo off
+
+start firefox.exe https://ok.ru/nilvin08
+
+start firefox.exe https://www.facebook.com/nelvin.perpinosas
+
+start firefox.exe https://twitter.com/Nilvin08
+
+start firefox.exe https://www.instagram.com/nilvin08
+
+start firefox.exe https://nilvin08.tumblr.com/
+
+start firefox.exe https://vk.com/nilvin08
+
+start firefox.exe https://www.linkedin.com/in/nilvinperpinosas
+
+start firefox.exe https://www.pinterest.ph/Nilvin08
+
+start firefox.exe https://www.reddit.com/user/nilvin08
+
+start firefox.exe https://www.quora.com/profile/Nilvin-Perpinosas
+
+exit
